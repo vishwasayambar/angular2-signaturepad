@@ -4,7 +4,7 @@
   "description": "Angular2 Component wrapper for szimek / signature_pad",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wulfsolter/angular2-signaturepad.git"
+    "url": "git+https://github.com/bytephase/angular2-signaturepad.git"
   },
   "keywords": [
     "signature",
@@ -15,7 +15,7 @@
   "author": "Wulf Solter <wulf@wulf.co.nz> (http://wulf.co.nz)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wulfsolter/angular2-signaturepad/issues"
+    "url": "https://github.com/bytephase/angular2-signaturepad.git/issues"
   },
   "homepage": "https://github.com/wulfsolter/angular2-signaturepad#readme",
   "peerDependencies": {
